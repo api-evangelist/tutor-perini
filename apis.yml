@@ -1,7 +1,12 @@
 aid: tutor-perini
-url: https://raw.githubusercontent.com/api-evangelist/tutor-perini/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/tutor-perini/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.tutor-perini.com
+description: >-
+  Tutor Perini Corporation is a leading civil, building, and specialty construction
+  company offering diversified general contracting, construction management, and design-build
+  services to private and public customers worldwide.
