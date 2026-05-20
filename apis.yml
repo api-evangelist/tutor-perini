@@ -20,6 +20,8 @@ description: >-
   government markets. Tutor Perini does not publicly expose developer APIs.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tutor-perini-corporation
   - type: Website
     url: https://www.tutorperini.com
   - type: About
