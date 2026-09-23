@@ -1,7 +1,9 @@
 ---
 title: Tutor Perini Sees 'Blowout' 2026 as Backlog Nears $20B ...
 url: https://www.constructionowners.com/news/tutor-perini-sees-blowout-2026-as-backlog-nears-20b-explores-data-center-expansion
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tutor Perini" press release artificial intelligence'
 position: 1
 source: serpapi-google

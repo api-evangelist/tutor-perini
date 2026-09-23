@@ -1,7 +1,9 @@
 ---
 title: Tutor Perini subsidiary nabs 2 California projects
 url: https://www.constructiondive.com/news/tutor-perini-subsidiary-2-california-projects/809013/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tutor Perini" press release artificial intelligence'
 position: 4
 source: serpapi-google
