@@ -25,7 +25,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tutor-peri
 name: Tutor Perini
 url: https://raw.githubusercontent.com/api-evangelist/tutor-perini/refs/heads/main/apis.yml
 created: '2026-05-03'
-modified: '2026-05-03'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 kind: contract
 access: 3rd-Party
@@ -43,6 +43,8 @@ description: >-
   government markets. Tutor Perini does not publicly expose developer APIs.
 apis: []
 common:
+  - url: https://www.tutorperini.com/news/
+    type: Blog
   - type: DomainSecurity
     url: security/tutor-perini-domain-security.yml
   - type: LinkedIn
